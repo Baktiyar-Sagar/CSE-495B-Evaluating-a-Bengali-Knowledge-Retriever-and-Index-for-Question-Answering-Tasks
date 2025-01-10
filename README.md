@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1a807445-828b-4cfa-b4fa-d460928b66c6)# Evaluating a Bengali Knowledge Retriever and Index for Question-Answering Tasks
+# Evaluating a Bengali Knowledge Retriever and Index for Question-Answering Tasks
 
 ## Description: 
 
